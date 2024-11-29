@@ -3,6 +3,7 @@
 <h2>👨‍💻 My Portfolio:</h2>
 
 - <b>Microsoft Azure</b>
+  - [Creating My First Resource in Azure (Storage, Container, File Upload/Edit, Delete Resource](https://github.com/cyberwahid01/1-azure-resource-setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
