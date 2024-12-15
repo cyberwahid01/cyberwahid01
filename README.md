@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Portfolio:</h2>
 
-- <b>Microsoft Azure 🪟</b>
+- <b>Microsoft Azure Introduction 🪟</b>
   - [Creating My First Resource in Azure (Storage, Container, File Upload/Edit, Delete Resource)](https://github.com/cyberwahid01/1-azure-resource-setup)
 - <b>TBC</b>
   
