@@ -6,6 +6,7 @@
   - [Creating My First Resource in Azure (Storage, Container, File Upload/Edit, Delete Resource)](https://github.com/cyberwahid01/1-azure-resource-setup)
 - <b>2. Compute and Networking Using Microsoft Azure 🪟</b>
   - [Part 1 - Setting Up Virtual Machines](https://github.com/cyberwahid01/2.1-Virtual-Machine-Setup)
+  - [Part 2 - Observing ICMP Traffic](https://github.com/cyberwahid01/2.2-Observing-ICMP-Traffic)
 
 
 <h2>Connect With Me 🤳</h2>
