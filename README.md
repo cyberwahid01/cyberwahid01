@@ -1,4 +1,4 @@
-<h1>Hey, Wahid here, Studying <a href="https://linkedin.com/in/wahida01">IT Fundamentals and Cloud Engineering</a>☺</h1>
+<h1>Hey, Wahid here. Currently Building in <a href="https://linkedin.com/in/wahida01">IT/Security Fundamentals and Cloud Engineering</a>☺</h1>
 
 <h2> My Projects 👨‍💻</h2>
 
