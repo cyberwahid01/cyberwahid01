@@ -1,14 +1,14 @@
-<h1>Hey, Wahid here. Currently Building in <a href="https://linkedin.com/in/wahida01">IT/Security Fundamentals and Cloud Engineering</a></h1>
+<h1>Hey, Wahid here. Currently Building in <a href="https://linkedin.com/in/wahida01">IT/Network Fundamentals and IAM</a></h1>
 
 <h2> My Projects 👨‍💻</h2>
 
-<b>1. [IT Help Desk, Compute and Networking Using Microsoft Azure 🪟](https://github.com/cyberwahid01/Azure-Compute-and-Networking)
+<b>1. [Understanding Operating Systems Inside VirtualBox - Windows 11 | Linux 💿](https://github.com/cyberwahid01/Operating-Systems-With-VirtualBox)
+
+<b>2. [IT Help Desk, Compute and Networking Using Microsoft Azure 🪟](https://github.com/cyberwahid01/Azure-Compute-and-Networking)
 
 
 <h2>Connect With Me 🤳</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Medium" width="22px" src="https://console.dev/img/favicons/daily.dev.jpg" />][dailydev]
 
-[dailydev]: https://app.daily.dev/wahidfwd
 [linkedin]: https://linkedin.com/in/wahida01
