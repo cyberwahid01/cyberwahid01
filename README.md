@@ -2,7 +2,7 @@
 
 <h2> My Projects 👨‍💻</h2>
 
-<b>1. [Understanding Operating Systems Inside VirtualBox - Windows 11 | Linux 💿](https://github.com/cyberwahid01/Operating-Systems-With-VirtualBox)
+<b>1. [Understanding Operating Systems & AD Inside VirtualBox - Windows 11 | Active Directory | Linux 💿](https://github.com/cyberwahid01/Operating-Systems-With-VirtualBox)
 
 <b>2. [IT Help Desk, Compute and Networking Using Microsoft Azure 🪟](https://github.com/cyberwahid01/Azure-Compute-and-Networking)
 
