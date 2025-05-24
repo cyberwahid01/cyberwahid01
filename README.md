@@ -5,10 +5,3 @@
 <b>1. [Understanding AD & Operating Systems Inside VirtualBox - Active Directory | Linux | Windows 11 💿](https://github.com/cyberwahid01/Operating-Systems-With-VirtualBox)
 
 <b>2. [IT Help Desk, Compute and Networking Using Microsoft Azure 🪟](https://github.com/cyberwahid01/Azure-Compute-and-Networking)
-
-
-<h2>Connect With Me 🤳</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/wahida01
