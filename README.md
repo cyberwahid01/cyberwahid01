@@ -1,4 +1,4 @@
-<h1>Hey, Wahid here. Currently Building in <a href="https://linkedin.com/in/wahida01">IT/Network Fundamentals and IAM</a></h1>
+<h1>Hey, Wahid here. Currently Building in <a href="https://linkedin.com/in/awahid01">IT/Network Fundamentals and IAM</a></h1>
 
 <h2> My Projects 👨‍💻</h2>
 
