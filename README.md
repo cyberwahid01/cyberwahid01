@@ -1,4 +1,4 @@
-<h1>Hey, Wahid here. Currently Building in the <a href="https://linkedin.com/in/awahid01">Blockchain space.</a></h1>
+<h1>Hey, Wahid here. Currently Building in the Blockchain space.</a></h1>
 
 <h2> My Previous Projects 👨‍💻</h2>
 
